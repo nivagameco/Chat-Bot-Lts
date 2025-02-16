@@ -1,4 +1,4 @@
-# Bot mess mới lụm được của bạn nào đó =))
+# Bot mess lụm được của bạn nào đó =))
 
 ## Chỉnh sửa và phát triển bởi [Bot Dev](https://github.com/nivagameco/)
 
@@ -65,3 +65,9 @@
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nivagameco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+#### Hoặc
+
+##### MbBank: 955556368 PHAM MANH HUNG
+##### TpBabnk: 10000637734 PHAM MANH HUNG
+##### PayPal: bomaychiuhaizzz@gmail.com
