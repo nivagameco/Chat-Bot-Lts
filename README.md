@@ -1,6 +1,6 @@
 ## Bot mess mới lụm được của bạn nào đó =))
 
-## Chỉnh sửa và phát triển bởi [![image](https://github.com/user-attachments/assets/5d840385-c94d-4f7f-894a-f6c31fd0d80d)Bot Dev](https://github.com/nivagameco/)
+## Chỉnh sửa và phát triển bởi [Bot Dev](https://github.com/nivagameco/)
 
 ## Cách cài đặt
 
