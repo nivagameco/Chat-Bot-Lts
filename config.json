@@ -31,16 +31,17 @@
     "adminOnly": false,
     "UPTIME": 1231526.035836716,
     "ACCESSTOKEN": "",
-    "BOTNAME": "chatbot",
-    "AMDIN_NAME": "Đào Ngọc Nguyên",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/hieukwaii.2000",
-    "MESSENGER_ADMIN": "m.me/hieukawaii.2000",
-    "ZALO_ADMIN": "082xxxxxx88",
-    "PREFIX": ".",
+    "BOTNAME": "Arya Bot",
+    "AMDIN_NAME": "Bot Dev",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/lagvia.simpe/",
+    "MESSENGER_ADMIN": "Nếu là Femboy Admin Bot mới rep",
+    "ZALO_ADMIN": "http://zaloapp.com/qr/p/1utyd9m9mdvvs",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "100075885595966",
-        "",
-        "100001624277957"
+        "100088265863570",
+        "100094618923023",
+        "100090798033290",
+        "100072474590562"
     ],
     "NDH": [
         ""
