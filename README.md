@@ -10,7 +10,7 @@
 2. Cài đặt git ( Nếu bạn sử dụng windows )
 3. Sử dụng lệnh sau để tải bot về:
    ```bash
-   git clone https://github.com/nivagameco/Hi-u-Kawaii.git
+   git clone https://github.com/nivagameco/Chat-Bot-Lts.git
    ```
    Hoặc bạn có thể tải trược tiếp Bot và giải nén nó
 4. Chỉnh sửa file config.json sao cho bạn làm admin bot
