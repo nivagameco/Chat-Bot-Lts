@@ -5,16 +5,18 @@
 ## Cách cài đặt
 
 1. Cài đặt node.js 14.21.3
+
    Windows: https://nodejs.org/en/blog/release/v14.21.3
+
    Linux: [Cài đặt NVM](https://byvn.net/NSya)
-2. Cài đặt git ( Nếu bạn sử dụng windows )
-3. Sử dụng lệnh sau để tải bot về:
+3. Cài đặt git ( Nếu bạn sử dụng windows )
+4. Sử dụng lệnh sau để tải bot về:
    ```bash
    git clone https://github.com/nivagameco/Chat-Bot-Lts.git
    ```
    Hoặc bạn có thể tải trược tiếp Bot và giải nén nó
-4. Chỉnh sửa file config.json sao cho bạn làm admin bot
-5. Tải Appstate facebook của bạn về
+5. Chỉnh sửa file config.json sao cho bạn làm admin bot
+6. Tải Appstate facebook của bạn về
    Mình có extension các bạn có thể tham khảo
    Tải extension tại [Đây](https://byvn.net/Hsoq)
    Sau đó đổi fbstate.json thành appstate.json
