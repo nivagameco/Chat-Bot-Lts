@@ -17,8 +17,11 @@
    Hoặc bạn có thể tải trược tiếp Bot và giải nén nó
 5. Chỉnh sửa file config.json sao cho bạn làm admin bot
 6. Tải Appstate facebook của bạn về
+
    Mình có extension các bạn có thể tham khảo
+
    Tải extension tại [Đây](https://byvn.net/Hsoq)
+
    Sau đó đổi fbstate.json thành appstate.json
 
 ## Hướng dẫn chạy bot
@@ -37,6 +40,7 @@
 ## Hướng dẫn để thành viên nhóm của bạn có thể sử dụng bot
 
   Vì đây là một bot thương mại bạn có thể cho thuê nên các bạn cần setup lệnh thuê bot cho nhóm
+  
   Sử dụng lệnh sau để lấy id nhóm
   ```bash
    /id
