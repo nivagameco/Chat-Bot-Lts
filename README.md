@@ -27,7 +27,7 @@
    npm start
    ```
    
-# Lưu ý: Bạn có thể cần phải tải về hoặc cập nhật một số module cần thiết
+## Lưu ý: Bạn có thể cần phải tải về hoặc cập nhật một số module cần thiết
    ```bash
    npm i -y -g
    ```
