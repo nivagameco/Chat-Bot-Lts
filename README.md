@@ -69,5 +69,5 @@
 #### Hoặc
 
 ##### MbBank: 955556368 PHAM MANH HUNG
-##### TpBabnk: 10000637734 PHAM MANH HUNG
+##### TpBank: 10000637734 PHAM MANH HUNG
 ##### PayPal: bomaychiuhaizzz@gmail.com
