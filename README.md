@@ -1,4 +1,4 @@
-## Bot mess mới lụm được của bạn nào đó =))
+# Bot mess mới lụm được của bạn nào đó =))
 
 ## Chỉnh sửa và phát triển bởi [Bot Dev](https://github.com/nivagameco/)
 
@@ -54,5 +54,14 @@
   ```
   Sau đó làm theo hướng dẫn để xóa nhóm có sẵn
 
-  ## Hỗ trợ 
-    Vui lòng Liên hệ với tôi 
+  ## Liên hệ với tôi
+  
+    <p align="left"> <a href="https://www.facebook.com/lagvia.simpe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nivagameco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Donation
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nivagameco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
